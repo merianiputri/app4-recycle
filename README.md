@@ -209,6 +209,11 @@ Layout activity_splash.xml menggunakan LinearLayout dengan orientasi vertikal, l
 Layout item_book.xml menggunakan CardView dengan sudut membulat (cardCornerRadius="8dp") dan bayangan (cardElevation="4dp") untuk menampilkan setiap item buku secara rapi dan terpisah. Di dalamnya terdapat RelativeLayout yang memuat elemen-elemen informasi buku: sebuah ImageView di sisi kiri untuk menampilkan gambar sampul buku (imgBook), lalu di sebelah kanan gambar terdapat tiga TextView yang ditata secara vertikal, yaitu judul buku (tvTitle) dengan teks tebal dan ukuran lebih besar (18sp), nama penulis (tvAuthor) dengan ukuran teks 14sp, serta tahun terbit (tvYear) juga berukuran 14sp. Layout ini dirancang agar setiap buku dalam daftar (RecyclerView) memiliki tampilan ringkas, jelas, dan estetis dalam bentuk kartu.
 
 ## ✨ Hasil
+![IMG-20250821-WA0001](https://github.com/user-attachments/assets/11a67107-1c18-46e9-abb8-fc988a3c52e1)
+![IMG-20250821-WA0003](https://github.com/user-attachments/assets/9686a619-daa4-4a0c-b0a3-015535645070)
+![IMG-20250821-WA0004](https://github.com/user-attachments/assets/bfb1c72b-714e-4726-ad6a-de896e07e449)
+![IMG-20250821-WA0002](https://github.com/user-attachments/assets/557537d6-aa2c-408b-a3df-dbb58e3de2bb)
 
 ## 📑 Kesimpulan
 Dari hasil perancangan dan pembuatan aplikasi Aplikasi Daftar Buku Perpustakaan berbasis Android, dapat disimpulkan bahwa aplikasi ini berhasil mengintegrasikan fitur utama Android seperti Splash Screen, RecyclerView, Intent, Toast, dan Dialog Box yang membuat aplikasi lebih interaktif dan mudah digunakan. Laporan ini menjadi bukti proses pengembangan sekaligus sarana pembelajaran dalam memahami konsep dasar pemrograman Android, sehingga dapat bermanfaat bagi mahasiswa maupun pengembang pemula sebagai referensi dalam mengembangkan aplikasi serupa.
+
